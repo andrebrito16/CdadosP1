@@ -1,1 +1,3 @@
 *.pass
+.vscode
+.pytest_cache
